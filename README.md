@@ -10,7 +10,7 @@ getgenv().Invisible = true
 
 getgenv().InCombatNoReset = false
 
-getgenv().Team = "Pirates" -- Marines
+getgenv().Team = "Marines" -- Marines
 
 getgenv().TweenSpeed = 315 -- 350 max or Get Tp Back
 
