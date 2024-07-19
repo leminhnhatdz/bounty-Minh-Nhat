@@ -29,18 +29,18 @@ getgenv().TweenSpeed = 315 -- 350 max or Get Tp Back
 
         },
 
-        ["Blox Fruit"] = {["Enable"] = true, ["Delay"] = 4,
+        ["Blox Fruit"] = {["Enable"] = false, ["Delay"] = 4,
                     ["Skills"] = {
 
-                ["Z"] = {["Enable"] = true, ["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
+                ["Z"] = {["Enable"] = false, ["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
 
-                ["X"] = { ["Enable"] = true, ["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
+                ["X"] = { ["Enable"] = false, ["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
 
-                ["C"] = { ["Enable"] = true, ["HoldTime"] = 0,["TimeToNextSkill"] = 0, },
+                ["C"] = { ["Enable"] = false, ["HoldTime"] = 0,["TimeToNextSkill"] = 0, },
 
                 ["V"] = { ["Enable"] = false, ["HoldTime"] = 0,["TimeToNextSkill"] = 0,},
 
-                ["F"] = {["Enable"] = true,["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
+                ["F"] = {["Enable"] = false,["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
 
             },
 
